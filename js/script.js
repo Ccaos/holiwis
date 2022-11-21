@@ -1,7 +1,7 @@
 const yesBtn = document.querySelector('#yesBtn');
 
 yesBtn.addEventListener('click',function () {
-    alert('Ya somos novios hagamos el delicioso 7u7')
+    alert('Yo tambien hagamos el delicioso 7u7')
 });
 
 const noBtn = document.querySelector('#noBtn');
